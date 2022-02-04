@@ -23,6 +23,9 @@ replace (
 	k8s.io/api => k8s.io/api v0.20.6
 	k8s.io/apimachinery => k8s.io/apimachinery v0.20.6
 	k8s.io/client-go => k8s.io/client-go v0.20.6
+
+	github.com/jenkins-x/go-scm => /Users/haibo.wang1/code/jx/go-scm
+	github.com/jenkins-x/jx-helpers/v3 => /Users/haibo.wang1/code/jx/jx-helpers
 )
 
 go 1.15
